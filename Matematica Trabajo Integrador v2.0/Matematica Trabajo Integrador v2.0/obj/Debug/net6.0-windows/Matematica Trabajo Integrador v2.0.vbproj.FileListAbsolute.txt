@@ -1,0 +1,17 @@
+F:\Terciario\Primer Año\Matematica\Matematica Trabajo Integrador v2.0\Matematica Trabajo Integrador v2.0\obj\Debug\net6.0-windows\Matematica_Trabajo_Integrador_v2._0.Conjuntos2.resources
+F:\Terciario\Primer Año\Matematica\Matematica Trabajo Integrador v2.0\Matematica Trabajo Integrador v2.0\obj\Debug\net6.0-windows\Matematica_Trabajo_Integrador_v2._0.MenuPrincipal.resources
+F:\Terciario\Primer Año\Matematica\Matematica Trabajo Integrador v2.0\Matematica Trabajo Integrador v2.0\obj\Debug\net6.0-windows\Matematica Trabajo Integrador v2.0.vbproj.GenerateResource.cache
+F:\Terciario\Primer Año\Matematica\Matematica Trabajo Integrador v2.0\Matematica Trabajo Integrador v2.0\obj\Debug\net6.0-windows\Matematica Trabajo Integrador v2.0.GeneratedMSBuildEditorConfig.editorconfig
+F:\Terciario\Primer Año\Matematica\Matematica Trabajo Integrador v2.0\Matematica Trabajo Integrador v2.0\obj\Debug\net6.0-windows\Matematica Trabajo Integrador v2.0.AssemblyInfoInputs.cache
+F:\Terciario\Primer Año\Matematica\Matematica Trabajo Integrador v2.0\Matematica Trabajo Integrador v2.0\obj\Debug\net6.0-windows\Matematica Trabajo Integrador v2.0.AssemblyInfo.vb
+F:\Terciario\Primer Año\Matematica\Matematica Trabajo Integrador v2.0\Matematica Trabajo Integrador v2.0\obj\Debug\net6.0-windows\Matematica Trabajo Integrador v2.0.vbproj.CoreCompileInputs.cache
+F:\Terciario\Primer Año\Matematica\Matematica Trabajo Integrador v2.0\Matematica Trabajo Integrador v2.0\bin\Debug\net6.0-windows\Matematica Trabajo Integrador v2.0.exe
+F:\Terciario\Primer Año\Matematica\Matematica Trabajo Integrador v2.0\Matematica Trabajo Integrador v2.0\bin\Debug\net6.0-windows\Matematica Trabajo Integrador v2.0.deps.json
+F:\Terciario\Primer Año\Matematica\Matematica Trabajo Integrador v2.0\Matematica Trabajo Integrador v2.0\bin\Debug\net6.0-windows\Matematica Trabajo Integrador v2.0.runtimeconfig.json
+F:\Terciario\Primer Año\Matematica\Matematica Trabajo Integrador v2.0\Matematica Trabajo Integrador v2.0\bin\Debug\net6.0-windows\Matematica Trabajo Integrador v2.0.dll
+F:\Terciario\Primer Año\Matematica\Matematica Trabajo Integrador v2.0\Matematica Trabajo Integrador v2.0\bin\Debug\net6.0-windows\Matematica Trabajo Integrador v2.0.pdb
+F:\Terciario\Primer Año\Matematica\Matematica Trabajo Integrador v2.0\Matematica Trabajo Integrador v2.0\obj\Debug\net6.0-windows\Matematica Trabajo Integrador v2.0.dll
+F:\Terciario\Primer Año\Matematica\Matematica Trabajo Integrador v2.0\Matematica Trabajo Integrador v2.0\obj\Debug\net6.0-windows\refint\Matematica Trabajo Integrador v2.0.dll
+F:\Terciario\Primer Año\Matematica\Matematica Trabajo Integrador v2.0\Matematica Trabajo Integrador v2.0\obj\Debug\net6.0-windows\Matematica Trabajo Integrador v2.0.pdb
+F:\Terciario\Primer Año\Matematica\Matematica Trabajo Integrador v2.0\Matematica Trabajo Integrador v2.0\obj\Debug\net6.0-windows\Matematica Trabajo Integrador v2.0.genruntimeconfig.cache
+F:\Terciario\Primer Año\Matematica\Matematica Trabajo Integrador v2.0\Matematica Trabajo Integrador v2.0\obj\Debug\net6.0-windows\ref\Matematica Trabajo Integrador v2.0.dll
